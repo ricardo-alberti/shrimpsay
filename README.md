@@ -1,4 +1,4 @@
 # shrimpsay
 
-chmod +x shrimpsay
-./shrimpsay "bom dia"
+  chmod +x shrimpsay
+  ./shrimpsay "bom dia"
