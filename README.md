@@ -23,8 +23,8 @@ chmod +x shrimpsay
 -e "insert your own item"
 
 ### Example: 
-´´´
+```
 ./shrimpsay -s "Bom dia" -b 
-´´´´
+```
 
 
