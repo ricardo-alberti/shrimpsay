@@ -1,5 +1,7 @@
 # SHRIMPSAY
 
+![shrimpsay output](/shrimpsay.png "shrimpsay output")
+
 1. SETUP
 ```
 chmod +x shrimpsay
