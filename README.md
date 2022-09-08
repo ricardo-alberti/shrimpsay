@@ -1,9 +1,9 @@
-## shrimpsay
-1. setup
+# SHRIMPSAY
+1. SETUP
 ```
 chmod +x shrimpsay
 ```
-2. run
+2. RUN
 ```
-./shrimpsay "Bom dia"
+./shrimpsay -s "Bom dia"
 ```
