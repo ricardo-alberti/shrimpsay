@@ -16,7 +16,7 @@ chmod +x shrimpsay
 
 -a (sword item)
 
--b (mud item)
+-b (mug item)
 
 -c (speaker)
 
