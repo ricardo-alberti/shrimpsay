@@ -22,7 +22,9 @@ chmod +x shrimpsay
 
 -d (UZI)
 
--e "insert your own item"
+-e (weight)
+
+-f "insert your own item"
 
 ### Example: 
 ```
