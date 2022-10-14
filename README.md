@@ -14,17 +14,15 @@ chmod +x shrimpsay
 
 -s "insert speak"
 
--a (sword item)
+-a (AWP)
 
--b (mug item)
+-b (mug)
 
--c (speaker)
+-c (UZI)
 
--d (UZI)
+-d (weight)
 
--e (weight)
-
--f "insert your own item"
+-e "insert your own item"
 
 ### Example: 
 ```
